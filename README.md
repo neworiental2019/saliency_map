@@ -1,1 +1,1 @@
-#sliency_map
+#saliency_map
